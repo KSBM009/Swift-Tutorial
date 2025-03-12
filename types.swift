@@ -10,6 +10,7 @@ var percentComplete: Double = 0.76
 // String
 var userThought: String = "I hope this course is good."
 var myName: String = "Kevin"
+var myName = "Kevin Stephen Biju"
 
 // Bool
 var isDarkModeOn: Bool = true
