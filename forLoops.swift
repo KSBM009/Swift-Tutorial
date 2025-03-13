@@ -10,3 +10,16 @@ for player in allStars {
 for player in allStars where player == "Davis" {
     print("Found Davis from the Array!")
 }
+
+for i in 0..<25 {
+    print(i)
+}
+
+var randomInts: [Int] = []
+
+var _ in 0..<25 {
+    var randomNum = Int.random(in: 0...100)
+    randomInts.append(randomNum)
+}
+
+print(randomInts)
