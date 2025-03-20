@@ -1,0 +1,1 @@
+// Self is basically calling the instance of the class it is in just like in Java
