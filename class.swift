@@ -19,7 +19,7 @@ class Developer {
 
 }
 
-let kevin = Developer(name: Kevin, jobTitle: Jr. iOS Developer, yrsExp: 1)
+let kevin = Developer(name: "Kevin", jobTitle: "Jr. iOS Developer", yrsExp: 1)
 
 print(kevin.name)
 print(kevin.jobTitle)
