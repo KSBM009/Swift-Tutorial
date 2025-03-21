@@ -38,7 +38,7 @@ class iOSdeveloper: Developer {
     }
 }
 
-let kevin = iOSdeveloper(name: Kevin, jobTitle: Developer, yrsExp: 3)
+let kevin = iOSdeveloper(name: "Kevin", jobTitle: "Developer", yrsExp: 3)
 
 kevin.speakFavFramework()
 
